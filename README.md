@@ -15,6 +15,7 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 1. Clone repository ini ke komputer lokal Anda menggunakan perintah berikut:
 
    ```shell
+   git clone https://github.com/silvaoctavia/submission
    ```
 
 2. Pastikan Anda memiliki lingkungan Python yang sesuai dan pustaka-pustaka yang diperlukan. Anda dapat menginstal pustaka-pustaka tersebut dengan menjalankan perintah berikut:
@@ -28,10 +29,9 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 1. Masuk ke direktori proyek (Local):
 
     ```shell
-    cd bike-sharing/dashboard/
     streamlit run dashboard.py
     ```
-    Atau bisa dengan kunjungi website ini [Project Data Analytics](https://silvaoctavia-submission-dashboard-qj50lj.streamlit.app/)
+    Atau bisa dengan kunjungi [Project Data Analytics](https://silvaoctavia-submission-dashboard-qj50lj.streamlit.app/)
 
 ## Kontribusi
 Anda dapat berkontribusi pada proyek ini dengan melakukan pull request. Pastikan untuk menjelaskan perubahan yang Anda usulkan secara jelas dan menyeluruh.
